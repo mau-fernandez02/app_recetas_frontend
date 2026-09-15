@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aplicación de Recetas IA  v0.0.1.
 
-## Getting Started
+Esta es una aplicación de Recetas para el uso del día al día
+
+> Esta es una aplicación [Next.js](https://nextjs.org) generada con el comando de [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Iniciar aplicación
 
 Codigo para correr la aplicación:
 
